@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#define GT_STATUS (222)
+
 int main()
 {
     int gt = 0;
